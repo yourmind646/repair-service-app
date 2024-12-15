@@ -69,7 +69,7 @@ python main.py
 ![Auth Dialog Screenshot](screenshots/1.jpg)
 
 ### Главный экран
-![Main Window Screenshot](screenshots/2.jpg)
+![Main Window Screenshot](screenshots/3.jpg)
 
 ---
 
