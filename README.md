@@ -28,8 +28,8 @@ Repair Service Management App — это приложение на основе 
 1. **Клонировать или скачать проект**:
     
 ```bash
-git clone https://github.com/<ваш-репозиторий>
-cd <папка-проекта>
+git clone https://github.com/yourmind646/repair-service-app
+cd repair-service-app
 ```    
 
 2. **Создать виртуальную среду (рекомендуется)**:
