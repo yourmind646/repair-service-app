@@ -1,0 +1,96 @@
+* {
+	font-family: Roboto;
+	font-size: 15px;
+}
+
+QWidget {
+	background-color: #1e272e;
+	color: #d2dae2;
+}
+
+QListWidget {
+	background-color: #2c3e50;
+	border: none;
+	border-radius: 5px;
+}
+
+QListWidget::item {
+	background-color: #34495e;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+QListWidget::item:hover {
+	background-color: #3c5a7a;
+}
+
+QListWidget::item:selected {
+	background-color: #1abc9c;
+	color: #ffffff;
+}
+
+QPushButton {
+	background-color: #34495e;
+	color: #ecf0f1;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 10pt;
+	text-align: center;
+}
+
+QPushButton:hover {
+	background-color: #3c5a7a;
+}
+
+QPushButton:pressed {
+	background-color: #1abc9c;
+}
+
+QPushButton:disabled {
+	background-color: #95a5a6;
+	color: #7f8c8d;
+}
+
+QLineEdit, QInputDialog {
+	background-color: #34495e;
+	color: #ecf0f1;
+	border: 1px solid #3c5a7a;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+QMessageBox {
+	background-color: #1e272e;
+	color: #ecf0f1;
+}
+
+QMessageBox QPushButton {
+	background-color: #34495e;
+	color: #ecf0f1;
+}
+
+QMessageBox QPushButton:hover {
+	background-color: #3c5a7a;
+}
+
+QMessageBox QLabel {
+	color: #ecf0f1;
+	font-size: 12pt;
+	background-color: #1e272e;
+}
+
+QMessageBox QPushButton {
+	background-color: #34495e;
+	color: #ecf0f1;
+	padding: 5px 15px;
+	border-radius: 3px;
+}
+
+QMessageBox QPushButton:hover {
+	background-color: #3c5a7a;
+}
+
+QMessageBox QPushButton:pressed {
+	background-color: #1abc9c;
+}
