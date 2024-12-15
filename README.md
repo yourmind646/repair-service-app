@@ -65,15 +65,11 @@ python main.py
 
 ## ▎Скриншоты
 
-Вот как выглядит ваше приложение в действии:
+### Окно авторизации
+![Auth Dialog Screenshot](screenshots/1.jpg)
 
 ### Главный экран
-![Main Window Screenshot](screenshots/main_window.png)
-
-### Окно авторизации
-![Auth Dialog Screenshot](screenshots/auth_dialog.png)
-
-*(Убедитесь, что файлы скриншотов находятся в папке `screenshots` вашего проекта.)*
+![Main Window Screenshot](screenshots/2.jpg)
 
 ---
 
